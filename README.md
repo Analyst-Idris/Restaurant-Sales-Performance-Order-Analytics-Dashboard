@@ -1,4 +1,5 @@
 # Restaurant Sales Performance & Order Analytics Dashboard
+
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/164a9de9-2779-4d0c-aa87-386da8152e1e" />
 
 ## Project Overview
